@@ -1,6 +1,72 @@
-#note_2{
-    display: inline;
+*{
+    box-sizing: border-box;
 }
-#broken_parf{
-    display: inline;
+body{
+    background-color:#f6f6f6;
+    position: relative;
 }
+.goods{
+    width: 1615px;
+    height: 804px;
+    border: 1px solid #d7d7d7;
+    background-color: #ffffff;
+}
+img{
+    width: 600px;
+    height: 600px;
+    vertical-align: middle;
+    margin: 102px 160px 102px 77px;
+}
+.part_with_desc{
+    display: inline-block;
+    width: 600px;
+    height: 600px;
+    vertical-align: middle;
+    width:600px;
+}
+h1{
+    width: 285px;
+height: 34px;
+color: #2f2f2f;
+font-family: "Arial - Bold MT";
+font-size: 36px;
+font-weight: 700;
+margin:45px 0 48px 0;
+}
+.desc{
+    width: 630px;
+height: 81px;
+color: #2f2f2f;
+font-family: "Arial MT";
+font-size: 24px;
+font-weight: 400;
+}
+.name_price{
+    width: 55px;
+height: 23px;
+color: #2f2f2f;
+font-family: "Arial MT";
+font-size: 24px;
+font-weight: 400;
+margin: 87px 0 36px;
+}
+.price{
+    width: 164px;
+    height: 45px;
+    color: #2f2f2f;
+    font-family: "Arial MT";
+    font-size: 48px;
+    font-weight: 400;
+    margin-bottom: 90px;
+}
+button{
+color: #ffffff;
+font-family: "Arial MT";
+font-size: 30px;
+font-weight: 400;
+width: 402px;
+height: 79px;
+background-color: #ec744a;
+padding: 23px 63px 27px 63px;
+}
+
